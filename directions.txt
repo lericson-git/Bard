@@ -1,0 +1,248 @@
+0:North-Miyaji's Tent1
+0:East-Aurae's Tent2
+0:South-Agrippa's Tent4
+0:West-Your Tent3
+1:South-Camp0
+2:West-Camp0
+3:East-Camp0
+4:North-Camp0
+5:North-Your Tent6
+5:Northeast-Forest Floor7
+6:South-Camp5
+7:Southwest-Camp5
+7:Northeast-Wolf Den8
+8:Southwest-Forest Floor7
+8:East-River9
+9:West-Wolf Den8
+9:East-Forest Floor10
+9:North-Trap11
+10:West-River9
+11:South-River9
+12:Southwest-Harald's Gorge13
+13:West-Forest Path14
+13:Northeast-Forest Floor12
+13:South-Gorge Exit16
+14:East-Harald's Gorge13
+14:South-Bandit Camp15
+15:North-Forest Path14
+16:North-Harald's Gorge13
+16:Northeast-Medegroth17
+17:Southwest-Gorge Exit16
+18:North-Town Square20
+18:West-Colleseum21
+18:East-Notice Board19
+19:West-Medegroth Entrance18
+20:South-Medegroth Entrance18
+20:East-Adventurer's Shop22
+20:North-City Wall23
+20:West-Alley24
+21:East-Medegroth Entrance18
+22:West-Town Square20
+23:South-Town Square20
+24:East-Town Square20
+24:Southwest-Park26
+26:Northeast-Alley24
+26:West-Militia HQ27
+27:East-Park26
+28:West-Arena One29
+28:East-Colleseum32
+29:West-Colleseum Entrance28
+29:North-Arena Two30
+30:South-Arena One29
+30:West-Podium31
+31:East-Arena Two30
+32:West-Colleseum Entrance28
+32:East-Medegroth Entrance18
+33:North-Crossroads34
+34:South-City Wall33
+34:East-Treehouse38
+34:North-Pond37
+34:West-Clearing35
+35:East-Crossroads34
+35:West-Abandoned Shack36
+36:East-Clearing35
+37:South-Crossroads34
+38:West-Crossroads34
+39:Northwest-Deep Forest40
+40:Southeast-Treehouse39
+40:West-Road41
+41:East-Deep Forest40
+41:Northeast-Cave Entrance42
+42:West-Cave Depths One43
+42:Southwest-Road41
+43:East-Cave Entrance42
+43:West-Cave Depths Two44
+44:East-Cave Depths One43
+45:West-Cave Entrance46
+46:East-Cave Spawn45
+46:North-Cave47
+47:Northwest-Cave48
+47:Northeast-Cave53
+47:East-Cave59
+47:South-Cave46
+48:North-Cave49
+48:Southeast-Cave47
+49:South-Cave48
+50:Southeast-Cave52
+50:South-Cave54
+51:Northwest-Cave56
+51:South-Cave52
+52:North-Cave51
+52:Northwest-Cave50
+53:Southwest-Cave47
+54:North-Cave50
+54:Southeast-Cave55
+55:Northwest-Cave54
+56:Southeast-Cave51
+56:East-Cave57
+57:West-Cave56
+57:South-Cave58
+58:North-Cave57
+58:Southwest-Cave59
+59:Northeast-Cave58
+59:West-Cave47
+64:East-Wutai Shrine65
+64:North-Jinn Camp67
+65:Northeast-Hidden Altar66
+65:West-Spawn64
+66:Southwest-Wutai Shrine65
+67:South-Spawn64
+67:North-Wutai Steppe68
+68:South-Jinn Camp67
+69:Southeast-Mountain Base70
+70:Northwest-Spawn69
+70:Northeast-Mountain Slope71
+71:Southwest-Mountain Base70
+71:Northeast-Mountain Summit72
+72:Southwest-Mountain Slope71
+72:Northwest-Wutaishen73
+73:Southeast-Mountain Summit72
+74:North-Wutaishen Entrance75
+75:South-Spawn74
+75:North-Courtyard76
+76:South-Wutaishen Entrance18
+76:North-Barracks77
+76:East-Housing District78
+77:South-Courtyard76
+78:West-Courtyard76
+78:Northeast-Monastery79
+79:Southwest-Housing District81
+80:Southwest-Housing District81
+81:Northeast-Spawn80
+81:West-Courtyard82
+82:East-Housing District81
+82:North-Barracks83
+82:South-Wutaishen Entrance84
+83:South-Courtyard82
+84:North-Courtyard82
+85:Southeast-Snow Path86
+86:Northwest-Spawn85
+86:Southeast-Snow Mount87
+87:Northwest-Snow Path86
+87:West-Cave89
+87:Southwest-Igloo88
+88:Northwest-Snow Mound87
+89:East-Snow Mound87
+90:East-Zeppelin91
+91:West-Spawn90
+91:South-Clearing92
+92:North-Zeppelin91
+92:South-Jungle Road93
+92:East-Jungle Entrance94
+93:North-Clearing92
+94:West-Clearing92
+94:Northeast-Pond95
+95:Southwest-Jungle94
+96:East-Cottage97
+96:Southeast-Nymph Camp98
+96:South-Cave99
+97:West-Spawn96
+98:Northwest-Spawn96
+99:North-Spawn96
+99:Southeast-River100
+100:Southeast-Caupona Inn101
+100:Northwest-Cave99
+101:Northwest-River100
+102:East-Hidden Path103
+103:West-Spawn102
+103:East-Cliffside104
+104:West-Hidden Path103
+104:South-Lighthouse106
+104:East-Ocean Coast105
+105:West-Cliffside104
+106:North-Cliffside104
+106:West-City Gate107
+107:East-Lighthouse106
+108:North-Gardens109
+109:South-City Gates108
+109:East-Priest Temple111
+109:North-Shop110
+109:West-Feast Hall112
+110:South-Garden109
+111:West-Gardens109
+112:East-Feast Hall112
+113:Southwest-Outpost114
+114:Northeast-Spawn113
+114:Southwest-Bandit Camp115
+115:Northwest-Outpost114
+115:East-Castle Entrance116
+116:West-Bandit Camp115
+117:East-Drawbridge118
+118:West-Castle Entrance117
+118:South-Castle Center119
+119:North-Drawbridge118
+119:West-Ballroom120
+120:East-Castle Center119
+120:South-Ymir's Chamber121
+121:North-Ballroom120
+122:East-Frost Cliffs123
+123:West-Spawn122
+123:Southeast-Bridge124
+124:Northwest-Frost Cliffs123
+124:Southwest-Boat125
+125:Northeast-Bridge124
+125:West-World Tree126
+126:East-Boat125
+127:East-Fairy Home128
+128:West-Spawn127
+128:East-Nest129
+129:West-Fairy Home128
+129:Southwest-Branch130
+130:Northeast-Nest129
+130:West-Summit131
+131:East-Branch130
+132:South-Ally Camp133
+133:North-Spawn132
+133:Southeast-Mill134
+134:Northwest-Ally Camp133
+134:North-Oni Camp135
+135:South-Mill134
+135:Southeast-Base136
+136:Northwest-Oni Camp135
+136:South-Volcano137
+137:North-Base136
+138:East-Nymph Stairs139
+139:West-Spawn138
+139:South-Volcano Ridge140
+140:North-Nymph Stairs139
+140:West-Demon Camp141
+141:East-Volcano Ridge140
+141:South-Volcano Summit142
+142:North-Demon Camp141
+143:You cannot fast travel in this level-You cannot fast travel in this level143
+144:Northeast-Cave Two146
+144:Northwest-Cave One145
+145:Northwest-Cave Four148
+145:Southeast-Cave Spawn144
+146:Southwest-Cave Spawn144
+146:Northeast-Cave Three147
+147:Southwest-Cave Two146
+147:Northwest-Cave Five149
+148:Southeast-Cave One145
+148:Northeast-Cave Six150
+149:Southeast-Cave Three147
+149:Northwest-Boss Fight151
+150:Northeast-Boss Fight151
+150:Southwest-Cave Four148
+151:Southwest-Cave Six150
+151:Southeast-Cave Five149

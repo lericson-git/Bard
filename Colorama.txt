@@ -1,0 +1,35 @@
+#Colorama library to change text
+#more info at https://pypi.org/project/colorama/
+
+#STEP 1. Open CMD as ADMINISTRTOR and enter this... "pip install colorama",
+#the install will run and you're ready to the the options below
+
+#STEP 2.
+#Put the code below at the top your game
+from colorama import Fore, Back, Style, init
+init() #start the colorama function
+init(autoreset=True) #makes sure each line's settings are unique
+#Put the code above at the top of your game
+
+#All options are seperated by '+'
+print(Back.GREEN + "Back. highlights the text")
+print(Fore.RED + "Fore. changes the color of the text")
+print(Fore.RED + Back.GREEN + "using both Fore and Back cahnges both")
+print(Fore.RED + Back.GREEN + Style.DIM ("using Style can change the brightness of the text")
+
+#LIST of COLORS 
+#!!!ALL COLORS NEED TO BE IN ALL CAPS!!!
+#Fore: BLACK, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, WHITE
+#Back: BLACK, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, WHITE
+#Style: DIM, NORMAL, BRIGHT
+
+--------------------------------------------------------------------------------------------------------------
+Bard Style Guide:
+NPC Name - Yellow
+Background information: White
+Combat - Enemy Skill: Red, Dim
+Combat - Ally Skill: Green, Bright
+Combat - HP: Red, Bright
+Combat - SP: Blue, Bright
+New Skill - Magenta, Bright
+Location Title - Yellow
